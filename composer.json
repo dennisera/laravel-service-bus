@@ -19,7 +19,7 @@
         "laravel/framework": "^8 || ^9 || ^10",
         "guzzlehttp/guzzle": "^7.0",
         "smskin/laravel-support": "^2.0",
-        "needle-project/laravel-rabbitmq": "dev-add-php8",
+        "needle-project/laravel-rabbitmq": "^0.5",
         "ext-sockets": "*",
         "ext-pcntl": "*"
     },
